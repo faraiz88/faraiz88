@@ -66,7 +66,7 @@ Every project I ship is designed around real engineering problems: async task qu
 
 ## 📫 Get In Touch
 
-- **LinkedIn:** https://www.linkedin.com/in/mohammed-faraiz-624652266/
+- **LinkedIn:** https://www.linkedin.com/in/mohammed-faraiz/
 - **Email:** mdfaraiz04@gmail.com 
 - **Location:** Dubai, UAE
 
