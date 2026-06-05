@@ -16,7 +16,7 @@ Every project I ship is designed around real engineering problems: async task qu
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### [Ecommerce Order Engine](https://github.com/faraiz88/Ecommerce-Order-Engine)
 > Production-grade async ecommerce backend simulating real-world order processing pipelines.
