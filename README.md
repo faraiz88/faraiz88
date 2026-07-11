@@ -41,7 +41,7 @@ Every project I ship is designed around real engineering problems: async task qu
 - Clean REST API with Swagger documentation
 
 **Stack:** FastAPI · Celery · Redis · PostgreSQL · Gemini AI · Docker  
-**Live:** [pdf-summarizer-api-production.up.railway.app/docs](https://pdf-summarizer-api-production.up.railway.app/docs)
+**Live:** [pdf-summarizer-api-production.up.railway.app/docs](https://pdf-summarizer-api-production-0aa8.up.railway.app/docs)
 
 ---
 
