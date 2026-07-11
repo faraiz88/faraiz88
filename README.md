@@ -28,7 +28,7 @@ Every project I ship is designed around real engineering problems: async task qu
 - Fully Dockerized multi-service architecture
 
 **Stack:** FastAPI · PostgreSQL · Redis · Celery · Docker · JWT  
-**Live:** [ecommerce-order-engine-production.up.railway.app/docs](https://ecommerce-order-engine-production.up.railway.app/docs)
+**Live:** [ecommerce-order-engine-production.up.railway.app/docs](https://ecommerce-order-engine-production-a588.up.railway.app/docs)
 
 ---
 
